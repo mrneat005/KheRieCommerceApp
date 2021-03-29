@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1080876464073",
+    "project_id": "kheri-ecommerce-app",
+    "storage_bucket": "kheri-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080876464073:android:e71242527b5e0779789a18",
+        "android_client_info": {
+          "package_name": "com.example.kheriecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080876464073-gahfag01atgufbi1gsrj39qnus36lnvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKlfgl9bK14v9Tx0dlA_bzPlF8R2r3Q8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080876464073-gahfag01atgufbi1gsrj39qnus36lnvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
